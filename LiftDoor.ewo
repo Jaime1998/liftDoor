@@ -1,0 +1,80 @@
+
+[SCADE\Simulator\BinaryDisplay]
+
+"Count"="0" 
+
+[SCADE\Simulator\OctalDisplay]
+
+"Count"="0" 
+
+[SCADE\Simulator\HexadecimalDisplay]
+
+"Count"="0" 
+
+[SCADE\Simulator\Simulation]
+
+"Latency"="200" 
+"RefreshRate"="1" 
+
+[SCADE\Simulator\Watch]
+
+"Count"="0" 
+
+[SCADE\Simulator\Graph]
+
+"Count"="0" 
+
+[SCADE\Simulator\ControlBreakpoint]
+
+"Count"="0" 
+
+[SCADE\Simulator\DataBreakpoint]
+
+"Count"="0" 
+
+[SCADE\Simulator\TclBreakpoint]
+
+"Count"="0" 
+
+[STUDIO\TOOLS\CONFIGURATIONS\Code Generator]
+
+"C:\\Users\\USER\\SCADE\\LiftDoor\\LiftDoor.etp"="Simulation" 
+"C:\\Users\\USER\\Documents\\Scade Proyectos\\LiftDoor\\LiftDoor.etp"="KCG" 
+
+[STUDIO\TOOLS\CONFIGURATIONS\Metrics and Rules Checker]
+
+"C:\\Users\\USER\\SCADE\\LiftDoor\\LiftDoor.etp"="MetricRule" 
+"C:\\Users\\USER\\Documents\\Scade Proyectos\\LiftDoor\\LiftDoor.etp"="MetricRule" 
+
+[STUDIO\TOOLS\CONFIGURATIONS\Reporter]
+
+"C:\\Users\\USER\\SCADE\\LiftDoor\\LiftDoor.etp"="HTML" 
+"C:\\Users\\USER\\Documents\\Scade Proyectos\\LiftDoor\\LiftDoor.etp"="HTML" 
+
+[STUDIO\TOOLS\CONFIGURATIONS\Timing and Stack Analysis Tools]
+
+"C:\\Users\\USER\\SCADE\\LiftDoor\\LiftDoor.etp"="KCG" 
+"C:\\Users\\USER\\Documents\\Scade Proyectos\\LiftDoor\\LiftDoor.etp"="KCG" 
+
+[STUDIO\Workspace]
+
+"ActiveProject"="C:\\Users\\USER\\Documents\\Scade Proyectos\\LiftDoor\\LiftDoor.etp" 
+
+[SCADE\Editor\Shortcut]
+
+"groupNb"="0" 
+
+[SCADE\Editor\Tool]
+
+"UsePolyline"="false" 
+"TransitionKind"="strong" 
+"McVersion"="MC66" 
+
+[SCADE\Diff\Tool]
+
+"LastProject1"="" 
+"LastProject2"="" 
+
+[SCADE\Generator\Tool]
+
+"PragmaTarget"="" 

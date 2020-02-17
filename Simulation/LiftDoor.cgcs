@@ -1,0 +1,43 @@
+[scade_version: 2019 R3]
+[scade_project: C:/Users/USER/SCADE/LiftDoor/LiftDoor.etp]
+[Code Generator]
+0ae27de53c04a380edeec4089e0e9548 C:/Users/USER/SCADE/LiftDoor/Simulation/scade_model_without_unused.scade
+9e3d2e18102371b5a25bcbd964318fa5 C:/Users/USER/SCADE/LiftDoor/Simulation/cmd_cg.log
+2fafbe03228b61c672f28f404c765ff9 C:/Users/USER/SCADE/LiftDoor/Simulation/config.txt
+c7494d6a197038fb0aebb307d0b4a573 C:/Users/USER/SCADE/LiftDoor/Simulation/kcg_consts.c
+aa7a0051c909217bb46b8435e8014638 C:/Users/USER/SCADE/LiftDoor/Simulation/kcg_consts.h
+e7c0d525d413c7b02994fad3317f8757 C:/Users/USER/SCADE/LiftDoor/Simulation/kcg_files.txt
+c570e85441febaa6f6d5e23e14e58b55 C:/Users/USER/SCADE/LiftDoor/Simulation/kcg_imported_types.h
+ed105cead4dfbd4677f055479ec6a66a C:/Users/USER/SCADE/LiftDoor/Simulation/kcg_metrics.txt
+3ca607b4f1bd9fa73bb6fa4523afc6e4 C:/Users/USER/SCADE/LiftDoor/Simulation/kcg_sensors.h
+478b40925e359ece80c10b0a741f7fee C:/Users/USER/SCADE/LiftDoor/Simulation/kcg_types.c
+ca48f0d04c4293509ecd80d6469c8731 C:/Users/USER/SCADE/LiftDoor/Simulation/kcg_types.h
+07c028870783d139d011b0016324ac4e C:/Users/USER/SCADE/LiftDoor/Simulation/liftDoor.c
+92e9100c8c68f3ca0c1ce5cfcc08b732 C:/Users/USER/SCADE/LiftDoor/Simulation/liftDoor.h
+279592bf9e3d705b702ac94f9326b309 C:/Users/USER/SCADE/LiftDoor/Simulation/mapping.xml
+ae3eb7ab76cdc5ab7228e39b505e73d6 C:/Users/USER/SCADE/LiftDoor/Simulation/user_macros.h
+[Mapping Utils]
+279592bf9e3d705b702ac94f9326b309 C:/Users/USER/SCADE/LiftDoor/Simulation/mapping.xml
+c73facea18d05cfaead87ac32716a1eb C:/Program Files/ANSYS Inc/v195/SCADE/SCADE/lib/C/SmuConfig.c
+63ca1258f2bc557f4914a90547c1afad C:/Program Files/ANSYS Inc/v195/SCADE/SCADE/lib/C/SmuLib.c
+7770fc261a6c916323af4a1e84af7a90 C:/Program Files/ANSYS Inc/v195/SCADE/SCADE/lib/C/SmuTypes.c
+fdc236851fcc107ead222892aa7071b4 C:/Program Files/ANSYS Inc/v195/SCADE/SCADE/lib/C/SmuVTable.c
+4e2da264ed73731a004a2a4f5c644dcc C:/Users/USER/SCADE/LiftDoor/LiftDoor.etp
+9c183bb8f17c700fb48bc3e540dfba39 C:/Users/USER/SCADE/LiftDoor/Simulation/LiftDoor_mapping.c
+0431067dc7103428c4c45ae19c5231e4 C:/Users/USER/SCADE/LiftDoor/Simulation/LiftDoor_mapping.h
+[Simulator Wrapper]
+279592bf9e3d705b702ac94f9326b309 C:/Users/USER/SCADE/LiftDoor/Simulation/mapping.xml
+4e2da264ed73731a004a2a4f5c644dcc C:/Users/USER/SCADE/LiftDoor/LiftDoor.etp
+8cc5fc21c379ffef892abbb103f59bde C:/Users/USER/SCADE/LiftDoor/Simulation/LiftDoor_dll.c
+fec9791667e14a958c96e01858d437fd C:/Users/USER/SCADE/LiftDoor/Simulation/LiftDoor_interface.c
+96e14856a8c76a8409fb406116ebef4f C:/Users/USER/SCADE/LiftDoor/Simulation/LiftDoor_interface.h
+[Type Utils]
+279592bf9e3d705b702ac94f9326b309 C:/Users/USER/SCADE/LiftDoor/Simulation/mapping.xml
+c73facea18d05cfaead87ac32716a1eb C:/Program Files/ANSYS Inc/v195/SCADE/SCADE/lib/C/SmuConfig.c
+63ca1258f2bc557f4914a90547c1afad C:/Program Files/ANSYS Inc/v195/SCADE/SCADE/lib/C/SmuLib.c
+ba954bceb09c977a857f6e4a0833dff7 C:/Program Files/ANSYS Inc/v195/SCADE/SCADE/lib/C/SmuPredefConv.c
+7770fc261a6c916323af4a1e84af7a90 C:/Program Files/ANSYS Inc/v195/SCADE/SCADE/lib/C/SmuTypes.c
+fdc236851fcc107ead222892aa7071b4 C:/Program Files/ANSYS Inc/v195/SCADE/SCADE/lib/C/SmuVTable.c
+4e2da264ed73731a004a2a4f5c644dcc C:/Users/USER/SCADE/LiftDoor/LiftDoor.etp
+fc9eb469f23f0081695a2215bb474284 C:/Users/USER/SCADE/LiftDoor/Simulation/LiftDoor_type.c
+2e68224d9f59d0a9601fedfd265aba85 C:/Users/USER/SCADE/LiftDoor/Simulation/LiftDoor_type.h

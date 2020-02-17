@@ -1,0 +1,16 @@
+$********** SCADE Suite KCG 32-bit 6.6 (build i19) ***********
+** Command: kcg66.exe -config C:/Users/USER/SCADE/LiftDoor/Simulation/config.txt
+** Generation date: 2020-01-10T17:37:31
+*************************************************************$
+*** Type Warning (WAR_151): Internal state expected
+  at file C:/Users/USER/SCADE/LiftDoor/Simulation/scade_model_without_unused.scade, line 147, character 0
+  at path liftDoor/
+ Node liftDoor has no internal state
+ (it should probably be declared as a function)
+1 warning was found
+No error was found
+No failure occurred
+$********** SCADE Suite KCG 32-bit 6.6 (build i19) ***********
+** kcg.log
+** Generation date: 2020-01-10T17:37:34
+*************************************************************$
